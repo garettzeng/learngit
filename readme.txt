@@ -1,2 +1,2 @@
-hello world?   
-github!
+hello world?GPL
+github!GPL
